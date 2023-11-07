@@ -12,8 +12,9 @@ https://www.kaggle.com/competitions/learn-ai-bbc/data
 
 ## Run the script:
 
-● To train a bert classifier: python run_bert.py   
+● To train a bert classifier :  "python run_bert.py"   
 ● In my case, I used a 16GB RAM to train this model with CPU.   
-● Finally, the testing accuracy reached 95% until the epochs = 15   
+● Finally, the testing accuracy reached 95% until the epochs = 15
+
 ![image](https://github.com/ChengWeiGu/Bert/blob/main/resfig.PNG)
 
